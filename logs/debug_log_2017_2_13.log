@@ -1,0 +1,20 @@
+
+
+**********
+Event at 13:47:38 @ server.js line 34
+SUCCESS
+Listening to Server on Port 3000
+
+**********
+Event at 13:47:53 @ go.js line 15 GET:/:id
+SUCCESS
+Redirected User to external URL
+Requested Data: 
+--   target : www.google.com  
+
+**********
+Event at 13:48:20 @ go.js line 65 GET:/:prefix/:url
+SUCCESS
+Redirected User to external URL
+Requested Data: 
+--   target : daniel-cobb.com  

@@ -1,0 +1,548 @@
+-- MSG @ 15:33:27 (No Location Info): Hello World from app.listen
+-- MSG @ 15:33:27 (app.js): Server Active, port 3000
+-- MSG @ 15:33:27 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:33:27 (No Location Info): URL being shortened...
+-- MSG @ 15:33:27 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:33:27 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:33:27 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:33:27 (No Location Info): Fail on 
+-- MSG @ 15:33:27 (No Location Info): Fail on /users/1
+-- MSG @ 15:33:27 (No Location Info): Fail on /1
+-- MSG @ 15:33:27 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:33:27 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:33:27 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:33:27 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:33:27 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:33:27 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:33:27 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:34:2 (No Location Info): Hello World from app.listen
+-- MSG @ 15:34:2 (app.js): Server Active, port 3000
+-- MSG @ 15:34:2 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:34:2 (No Location Info): URL being shortened...
+-- MSG @ 15:34:2 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:34:2 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:34:2 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:34:2 (No Location Info): Fail on urls
+-- MSG @ 15:34:2 (No Location Info): Fail on urls/users/1
+-- MSG @ 15:34:2 (No Location Info): Fail on urls/1
+-- MSG @ 15:34:2 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:34:2 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:34:2 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:34:2 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:34:2 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:34:2 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:34:2 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:34:34 (No Location Info): Hello World from app.listen
+-- MSG @ 15:34:34 (app.js): Server Active, port 3000
+-- MSG @ 15:34:34 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:34:34 (No Location Info): URL being shortened...
+-- MSG @ 15:34:34 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:34:34 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:34:34 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:34:34 (No Location Info): Fail on urls
+-- MSG @ 15:34:34 (No Location Info): Fail on urls/users/1
+-- MSG @ 15:34:34 (No Location Info): Fail on urls/1
+-- MSG @ 15:34:34 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:34:34 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:34:34 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:34:34 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:34:34 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:34:34 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:34:34 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:35:39 (No Location Info): Hello World from app.listen
+-- MSG @ 15:35:39 (app.js): Server Active, port 3000
+-- MSG @ 15:35:39 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:35:39 (No Location Info): URL being shortened...
+-- MSG @ 15:35:39 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:35:39 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:35:39 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:35:39 (No Location Info): Fail on urls
+-- MSG @ 15:35:39 (No Location Info): Fail on urls/users/1
+-- MSG @ 15:35:39 (No Location Info): Fail on urls/1
+-- MSG @ 15:35:39 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:35:39 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:35:39 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:35:39 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:35:39 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:35:39 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:35:39 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:37:31 (No Location Info): Hello World from app.listen
+-- MSG @ 15:37:31 (app.js): Server Active, port 3000
+-- MSG @ 15:37:31 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:37:31 (No Location Info): URL being shortened...
+-- MSG @ 15:37:31 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:37:31 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:37:31 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:37:31 (No Location Info): Fail on urls
+-- MSG @ 15:37:31 (No Location Info): Fail on urls/users/1
+-- MSG @ 15:37:31 (No Location Info): Fail on urls/1
+-- MSG @ 15:37:31 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:37:31 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:37:31 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:37:31 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:37:31 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:37:31 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:37:31 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:39:28 (No Location Info): Fail on urls
+-- MSG @ 15:39:28 (No Location Info): Fail on urls/users/1
+-- MSG @ 15:39:28 (No Location Info): Fail on urls/1
+-- MSG @ 15:41:27 (No Location Info): Hello World from app.listen
+-- MSG @ 15:41:27 (app.js): Server Active, port 3000
+-- MSG @ 15:41:27 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:41:27 (No Location Info): URL being shortened...
+-- MSG @ 15:41:27 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:41:27 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:41:27 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:41:27 (No Location Info): Fail on urls
+-- MSG @ 15:41:27 (No Location Info): Fail on urls/users/1
+-- MSG @ 15:41:27 (No Location Info): Fail on urls/1
+-- MSG @ 15:41:27 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:41:27 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:41:27 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:41:27 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:41:27 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:41:27 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:41:27 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:42:27 (No Location Info): Hello World from app.listen
+-- MSG @ 15:42:27 (app.js): Server Active, port 3000
+-- MSG @ 15:42:27 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:42:27 (No Location Info): URL being shortened...
+-- MSG @ 15:42:27 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:42:27 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:42:27 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:42:27 (No Location Info): Fail on urls
+-- MSG @ 15:42:27 (No Location Info): Fail on urls/users/1
+-- MSG @ 15:42:27 (No Location Info): Fail on urls/1
+-- MSG @ 15:42:27 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:42:27 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:42:27 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:42:27 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:42:27 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:42:27 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:42:27 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:44:0 (No Location Info): Hello World from app.listen
+-- MSG @ 15:44:0 (app.js): Server Active, port 3000
+-- MSG @ 15:44:1 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:44:1 (No Location Info): URL being shortened...
+-- MSG @ 15:44:1 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:44:1 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:44:1 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:44:1 (No Location Info): Fail on localhost:3000/api/v1/urls
+-- MSG @ 15:44:1 (No Location Info): Fail on localhost:3000/api/v1/urls/users/1
+-- MSG @ 15:44:1 (No Location Info): Fail on localhost:3000/api/v1/urls/1
+-- MSG @ 15:44:1 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:44:1 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:44:1 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:44:1 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:44:1 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:44:1 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:44:1 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:45:17 (No Location Info): Hello World from app.listen
+-- MSG @ 15:45:17 (app.js): Server Active, port 3000
+-- MSG @ 15:45:17 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:45:17 (No Location Info): URL being shortened...
+-- MSG @ 15:45:17 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:45:17 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:45:17 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:45:17 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:45:17 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:45:17 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:45:17 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:45:17 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:45:17 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:45:17 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:45:46 (No Location Info): Hello World from app.listen
+-- MSG @ 15:45:46 (app.js): Server Active, port 3000
+-- MSG @ 15:45:47 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:45:47 (No Location Info): URL being shortened...
+-- MSG @ 15:45:47 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:45:47 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:45:47 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:45:47 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:45:47 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:45:47 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:45:47 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:45:47 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:45:47 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:45:47 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:46:0 (No Location Info): Hello World from app.listen
+-- MSG @ 15:46:0 (app.js): Server Active, port 3000
+-- MSG @ 15:46:0 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:46:0 (No Location Info): URL being shortened...
+-- MSG @ 15:46:0 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:46:0 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:46:0 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:46:0 (No Location Info): Fail on localhost:3000/api/v1/urls
+-- MSG @ 15:46:0 (No Location Info): Fail on localhost:3000/api/v1/urls/users/1
+-- MSG @ 15:46:0 (No Location Info): Fail on localhost:3000/api/v1/urls/1
+-- MSG @ 15:46:0 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:46:0 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:46:0 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:46:0 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:46:0 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:46:0 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:46:0 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:47:1 (No Location Info): Hello World from app.listen
+-- MSG @ 15:47:1 (app.js): Server Active, port 3000
+-- MSG @ 15:47:1 (No Location Info): URL being shortened...
+-- MSG @ 15:47:1 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:47:1 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:47:1 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:47:1 (No Location Info): Fail on localhost:3000/api/v1/urls
+-- MSG @ 15:47:1 (No Location Info): Fail on localhost:3000/api/v1/urls/users/1
+-- MSG @ 15:47:1 (No Location Info): Fail on localhost:3000/api/v1/urls/1
+-- MSG @ 15:47:1 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:47:1 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:49:35 (No Location Info): Hello World from app.listen
+-- MSG @ 15:49:35 (app.js): Server Active, port 3000
+-- MSG @ 15:49:35 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:49:35 (No Location Info): URL being shortened...
+-- MSG @ 15:49:35 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:49:35 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:49:35 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:49:35 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:49:35 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:49:35 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:49:35 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:49:35 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:49:35 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:49:35 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:55:12 (No Location Info): Hello World from app.listen
+-- MSG @ 15:55:12 (app.js): Server Active, port 3000
+-- MSG @ 15:55:12 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:55:12 (No Location Info): URL being shortened...
+-- MSG @ 15:55:12 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:55:12 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:55:12 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:55:12 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:55:12 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:55:12 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:55:12 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:55:12 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:55:12 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:55:12 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:55:38 (No Location Info): Hello World from app.listen
+-- MSG @ 15:55:38 (app.js): Server Active, port 3000
+-- MSG @ 15:55:38 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:55:38 (No Location Info): URL being shortened...
+-- MSG @ 15:55:38 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:55:38 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:55:38 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:55:38 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:55:38 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:55:38 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:55:38 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:55:38 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:55:38 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:55:38 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:56:13 (No Location Info): Hello World from app.listen
+-- MSG @ 15:56:13 (app.js): Server Active, port 3000
+-- MSG @ 15:56:13 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:56:13 (No Location Info): URL being shortened...
+-- MSG @ 15:56:13 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:56:13 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:56:13 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:56:13 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:56:13 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:56:13 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:56:13 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:56:13 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:56:13 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:56:13 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:56:13 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:56:13 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:56:13 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:56:40 (No Location Info): Hello World from app.listen
+-- MSG @ 15:56:40 (app.js): Server Active, port 3000
+-- MSG @ 15:56:41 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:56:41 (No Location Info): URL being shortened...
+-- MSG @ 15:56:41 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:56:41 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:56:41 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:56:41 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:56:41 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:56:41 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:56:41 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:56:41 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:56:41 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:56:41 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 15:57:24 (No Location Info): Hello World from app.listen
+-- MSG @ 15:57:24 (app.js): Server Active, port 3000
+-- MSG @ 15:57:24 (__app.js): Unit Test Complete for /urls
+-- MSG @ 15:57:24 (No Location Info): URL being shortened...
+-- MSG @ 15:57:24 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 15:57:24 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 15:57:24 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 15:57:24 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 15:57:24 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 15:57:24 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 15:57:24 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 15:57:24 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 15:57:24 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 15:57:24 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:00:44 (No Location Info): Hello World from app.listen
+-- MSG @ 16:00:44 (app.js): Server Active, port 3000
+-- MSG @ 16:00:44 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:00:44 (No Location Info): URL being shortened...
+-- MSG @ 16:00:44 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:00:44 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:00:44 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:00:44 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:00:44 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:00:44 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:00:44 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:00:44 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:00:44 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:00:44 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:00:55 (No Location Info): Hello World from app.listen
+-- MSG @ 16:00:56 (app.js): Server Active, port 3000
+-- MSG @ 16:00:56 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:00:56 (No Location Info): URL being shortened...
+-- MSG @ 16:00:56 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:00:56 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:00:56 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:00:56 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:00:56 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:00:56 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:00:56 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:00:56 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:00:56 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:00:56 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:01:15 (No Location Info): Hello World from app.listen
+-- MSG @ 16:01:15 (app.js): Server Active, port 3000
+-- MSG @ 16:01:15 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:01:15 (No Location Info): URL being shortened...
+-- MSG @ 16:01:15 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:01:15 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:01:15 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:01:15 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:01:15 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:01:15 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:01:15 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:01:15 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:01:15 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:01:15 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:01:45 (No Location Info): Hello World from app.listen
+-- MSG @ 16:01:45 (app.js): Server Active, port 3000
+-- MSG @ 16:01:45 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:01:45 (No Location Info): URL being shortened...
+-- MSG @ 16:01:45 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:01:45 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:01:45 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:01:45 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:01:45 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:01:45 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:01:45 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:01:45 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:01:45 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:01:45 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:03:3 (No Location Info): Hello World from app.listen
+-- MSG @ 16:03:3 (app.js): Server Active, port 3000
+-- MSG @ 16:03:3 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:03:3 (No Location Info): URL being shortened...
+-- MSG @ 16:03:3 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:03:3 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:03:3 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:03:3 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:03:3 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:03:3 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:03:3 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:03:3 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:03:3 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:03:3 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:03:13 (No Location Info): Hello World from app.listen
+-- MSG @ 16:03:13 (app.js): Server Active, port 3000
+-- MSG @ 16:03:14 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:03:14 (No Location Info): URL being shortened...
+-- MSG @ 16:03:14 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:03:14 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:03:14 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:03:14 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:03:14 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:03:14 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:03:14 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:03:14 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:03:14 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:03:14 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:03:23 (No Location Info): Hello World from app.listen
+-- MSG @ 16:03:23 (app.js): Server Active, port 3000
+-- MSG @ 16:03:23 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:03:23 (No Location Info): URL being shortened...
+-- MSG @ 16:03:23 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:03:23 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:03:23 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:03:23 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:03:23 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:03:23 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:03:23 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:03:23 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:03:23 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:03:23 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:03:32 (No Location Info): Hello World from app.listen
+-- MSG @ 16:03:32 (app.js): Server Active, port 3000
+-- MSG @ 16:03:32 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:03:32 (No Location Info): URL being shortened...
+-- MSG @ 16:03:32 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:03:32 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:03:32 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:03:32 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:03:32 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:03:32 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:03:32 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:03:32 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:03:32 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:03:32 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:03:57 (No Location Info): Hello World from app.listen
+-- MSG @ 16:03:57 (app.js): Server Active, port 3000
+-- MSG @ 16:03:57 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:03:57 (No Location Info): URL being shortened...
+-- MSG @ 16:03:57 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:03:57 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:03:57 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:03:57 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:03:57 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:03:57 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:03:58 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:03:58 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:03:58 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:03:58 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:04:5 (No Location Info): Hello World from app.listen
+-- MSG @ 16:04:5 (app.js): Server Active, port 3000
+-- MSG @ 16:04:5 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:04:5 (No Location Info): URL being shortened...
+-- MSG @ 16:04:5 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:04:5 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:04:5 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:04:5 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:04:5 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:04:5 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:04:5 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:04:5 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:04:5 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:04:5 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:05:0 (No Location Info): Hello World from app.listen
+-- MSG @ 16:05:0 (app.js): Server Active, port 3000
+-- MSG @ 16:05:0 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:05:0 (No Location Info): URL being shortened...
+-- MSG @ 16:05:0 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:05:0 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:05:0 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:05:0 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:05:0 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:05:0 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:05:0 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:05:0 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:05:0 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:05:0 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:05:14 (No Location Info): Hello World from app.listen
+-- MSG @ 16:05:14 (app.js): Server Active, port 3000
+-- MSG @ 16:05:14 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:05:14 (No Location Info): URL being shortened...
+-- MSG @ 16:05:14 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:05:14 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:05:14 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:05:14 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:05:14 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:05:14 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:05:14 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:05:14 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:05:14 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:05:15 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:05:35 (No Location Info): Hello World from app.listen
+-- MSG @ 16:05:35 (app.js): Server Active, port 3000
+-- MSG @ 16:05:35 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:05:35 (No Location Info): URL being shortened...
+-- MSG @ 16:05:35 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:05:35 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:05:35 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:05:35 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:05:35 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:05:36 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:05:36 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:05:36 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:05:36 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:05:36 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:05:40 (No Location Info): Hello World from app.listen
+-- MSG @ 16:05:40 (app.js): Server Active, port 3000
+-- MSG @ 16:05:40 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:05:40 (No Location Info): URL being shortened...
+-- MSG @ 16:05:40 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:05:40 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:05:40 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:05:40 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:05:40 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:05:40 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:05:40 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:05:40 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:05:40 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:05:40 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:05:59 (No Location Info): Hello World from app.listen
+-- MSG @ 16:05:59 (app.js): Server Active, port 3000
+-- MSG @ 16:06:0 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:06:0 (No Location Info): URL being shortened...
+-- MSG @ 16:06:0 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:06:0 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:06:0 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:06:0 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:06:0 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:06:0 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:06:0 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:06:0 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:06:0 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:06:0 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:06:15 (No Location Info): Hello World from app.listen
+-- MSG @ 16:06:15 (app.js): Server Active, port 3000
+-- MSG @ 16:06:16 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:06:16 (No Location Info): URL being shortened...
+-- MSG @ 16:06:16 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:06:16 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:06:16 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:06:16 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:06:16 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:06:16 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:06:16 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:06:16 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:06:16 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:06:16 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:07:5 (No Location Info): Hello World from app.listen
+-- MSG @ 16:07:5 (app.js): Server Active, port 3000
+-- MSG @ 16:07:5 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:07:5 (No Location Info): URL being shortened...
+-- MSG @ 16:07:5 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:07:5 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:07:5 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:07:5 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:07:5 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:07:5 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:07:5 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:07:5 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:07:5 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:07:5 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:08:9 (No Location Info): Hello World from app.listen
+-- MSG @ 16:08:9 (app.js): Server Active, port 3000
+-- MSG @ 16:08:9 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:08:9 (No Location Info): URL being shortened...
+-- MSG @ 16:08:9 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:08:9 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:08:9 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:08:9 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:08:9 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:08:9 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:08:9 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:08:9 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:08:9 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:08:9 (__app.js): Unit Test Complete for deleting URL
+-- MSG @ 16:09:31 (No Location Info): Hello World from app.listen
+-- MSG @ 16:09:31 (app.js): Server Active, port 3000
+-- MSG @ 16:09:31 (__app.js): Unit Test Complete for /urls
+-- MSG @ 16:09:31 (No Location Info): URL being shortened...
+-- MSG @ 16:09:31 (No Location Info): Created Short URL: 9fa2de7
+-- MSG @ 16:09:32 (__app.js): Unit Test Complete for creating new URL
+-- MSG @ 16:09:32 (__app.js): Unit Test Complete for creating new user
+-- MSG @ 16:09:32 (__app.js): Unit Test Complete for /urls/1
+-- MSG @ 16:09:32 (__app.js): Unit Test Complete for /urls/user/43a995d29e
+-- MSG @ 16:09:32 (__app.js): Unit Test Complete for /go/1
+-- MSG @ 16:09:32 (__app.js): Unit Test Complete for /7fdcdf0
+-- MSG @ 16:09:32 (__app.js): Unit Test Complete for /go/tyny.io/7fdcdf0
+-- MSG @ 16:09:32 (__app.js): Unit Test Complete for updated a URL
+-- MSG @ 16:09:32 (__app.js): Unit Test Complete for deleting URL
