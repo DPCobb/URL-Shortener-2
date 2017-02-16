@@ -1,0 +1,86 @@
+
+
+**********
+Event at 4:12:58 PM @ server.js line 34
+SUCCESS
+Listening to Server on Port 3000
+
+**********
+Event at 4:14:21 PM @ server.js line 34
+SUCCESS
+Listening to Server on Port 3000
+
+**********
+Event at 4:14:27 PM @ app.js line 48 GET:/urls/:id
+SUCCESS
+Returned URL based on ID
+Returned Data: 
+--   data :  url : www.google.com 
+     id :1
+     tynyUrl : tyny.io/7fdcdf0 
+     shortUrl : 7fdcdf0 
+     key : 43a995d29e 
+     createdAt : 2017-02-05T19:49:59.000Z 
+     updatedAt : 2017-02-09T22:02:01.000Z   
+Requested Data: 
+--   id :  id : 1   
+
+**********
+Event at 4:14:31 PM @ app.js line 19 GET:/urls
+SUCCESS
+Returned all URL's
+Returned Data: 
+--   data :[  url : www.google.com 
+     id :1
+     tynyUrl : tyny.io/7fdcdf0 
+     shortUrl : 7fdcdf0 
+     key : 43a995d29e 
+     createdAt : 2017-02-05T19:49:59.000Z 
+     updatedAt : 2017-02-09T22:02:01.000Z  
+      url : daniel-cobb.com 
+     id :2
+     tynyUrl : tyny.io/04f580b 
+     shortUrl : 04f580b 
+     key : 2 
+     createdAt : 2017-02-05T19:51:46.000Z 
+     updatedAt : 2017-02-05T19:51:46.000Z  
+      url : https://github.com/DPCobb/URL-Shortener 
+     id :4
+     tynyUrl : tyny.io/8d10273 
+     shortUrl : 8d10273 
+     key : 43a995d29e 
+     createdAt : 2017-02-05T20:16:49.000Z 
+     updatedAt : 2017-02-05T20:16:49.000Z  
+      url : amazon.com 
+     id :5
+     tynyUrl : tyny.io/21a9315 
+     shortUrl : 21a9315 
+     key : 43a995d29e 
+     createdAt : 2017-02-08T17:53:29.000Z 
+     updatedAt : 2017-02-08T17:53:29.000Z  
+      url : amazon.com 
+     id :6
+     tynyUrl : tyny.io/21a9315 
+     shortUrl : 21a9315 
+     key : 43a995d29e 
+     createdAt : 2017-02-08T17:54:00.000Z 
+     updatedAt : 2017-02-08T17:54:00.000Z  
+      url : www.facebook.com 
+     id :8
+     tynyUrl : tyny.io/c5344bc 
+     shortUrl : c5344bc 
+     key : 43a995d29e 
+     createdAt : 2017-02-08T18:37:59.000Z 
+     updatedAt : 2017-02-08T18:37:59.000Z  
+      url : https://coderwall.com/p/yphywg/printing-colorful-text-in-terminal-when-run-node-js-script 
+     id :9
+     tynyUrl : tyny.io/a829a00 
+     shortUrl : a829a00 
+     key : 43a995d29e 
+     createdAt : 2017-02-08T18:40:36.000Z 
+     updatedAt : 2017-02-08T18:40:36.000Z  ] 
+
+**********
+Event at 4:15:48 PM @ server.js line 34
+SUCCESS
+Listening to Server on Port 3000

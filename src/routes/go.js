@@ -7,7 +7,7 @@
  */
 
 const url = require('../models/url.js');
-const log = require('../modules/debug.js');
+const log = require('tynydebug');
 
 class dataHandle {
   constructor(data) {

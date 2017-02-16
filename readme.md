@@ -24,7 +24,8 @@ express: ^4.14.1,
 mysql: ^2.13.0,
 sequelize: ^3.30.1,
 dotenv: ^4.0.0,
-supertest: ^3.0.0
+supertest: ^3.0.0,
+tynydebug: ^1.0.4
 ```
 As well as the following Dev dependencies:
 ```
@@ -63,7 +64,7 @@ DEBUG = true
 DEBUG_CONSOLE = true
 DEBUG_MSG_LOG = true
 ```
-These entries control the debugging tool built into the app, this tool is built to avoid using console.log and can easily control
+These entries control the debugging tool for the app, this tool is built to avoid using console.log and can easily control
 the display of messages on production apps. To turn off all debugging features change DEBUG to false.
 ```
 DEBUG = false

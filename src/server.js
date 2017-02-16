@@ -7,7 +7,7 @@
  */
 
 // require debug tool, express, and body-parser
-const log = require('./modules/debug.js');
+const log = require('tynydebug');
 // Show debug warning
 log.debugWarn();
 const express = require('express');

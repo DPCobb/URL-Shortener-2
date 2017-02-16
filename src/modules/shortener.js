@@ -5,7 +5,7 @@
  * Assignment 3: Logging Tool
  *
  */
-const log = require('../modules/debug.js');
+const log = require('tynydebug');
 
 module.exports = (url) => {
   // require lastUrl model
